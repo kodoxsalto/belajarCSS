@@ -1,0 +1,46 @@
+#CSS Adalah bahasa yang digunakan untuk mendesain / mempercantik halaman website
+# Cascading style sheet: ibarat rumah HTML bangunan CSS Cat
+#satu web bisa punya banyak style akibat ada css
+
+#EPS 2 :
+#INLINE : Ditempatkan dalam elemen HTML Sebagai Atribut
+#INTERNAL : Ditempatkan di <head> HTML dalam elemen <style>
+#EXTERNAL : DItulis di file yang terpisah dengan HTML dipanggil oleh HTML dengan tag <link> 
+
+#URUTAN PRIORITAS : INLINE, INTERNAL, EXTERNAL
+#INLINE Hanya berlaku pada satu elemen tertentu yang diberi tag style
+#INTERNAL Bisa digunakan hanya dalam 1 page halaman
+#EXTERNAL Bisa digunakan banyak web atau page 
+
+#internal.html , inline.html , external.html
+
+
+#EPS 3 : Selector
+#UNtuk memilih bagian pada html untuk dipilih CSS
+#ELEMEN : Diaplikasikan kepada HTML Elemen 
+    # Contoh : p {
+    # color : orange;}
+#CLASS : Diaplikasikan kepada atribut class dan dapat dipanggil lebih dari sekali
+    #contoh : .class{
+    # color : violet;}
+#ID : Diaplikasikan untuk bagian yang spesifik dan hanya dipanggil sekali 
+    #contoh : 
+    #id {
+    # color : blue;}
+
+#Internal2.html
+
+
+#EPS 4 : DIV and SPAND
+#DIV and SPAN Tidak membuat apa apa dalam HTML 
+#<div> : Digunakan untuk membuat division dalam HTML, banyak line
+#<span> : Digunakan untuk inline container, cuma satu line
+#Keduanya memudahkan dalam memanggil CSS
+
+#Internal3.html
+
+#EPS 5 : Color 
+#COLOR NAME : p { color : orange;}
+#HEX CODE : p {color : #00bfff;}
+#RGB : p { color : rgb(0,0,255);}
+#HSL : p {color : hsl(0,0%,50%)}
