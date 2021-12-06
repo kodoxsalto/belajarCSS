@@ -44,3 +44,30 @@
 #HEX CODE : p {color : #00bfff;}
 #RGB : p { color : rgb(0,0,255);}
 #HSL : p {color : hsl(0,0%,50%)}
+
+#Internal4.html
+
+#EPS 6 : Position
+#RELATIVE : Tidak mempengaruhi posisi elemen lain , Posisi berpindah ketika di scroll
+#ABSOLUTE : Mempengaruhi posisi elemen lain , posisi berpindah ketika di scroll
+#FIXED : Mempengaruhi posisi elemen lain, posisi tidak berpindah ketika di scroll 
+
+#Internal5.html
+
+#EPS 7 : FLOAT and Clear
+#w3schools.com/css/
+
+#EPS 8 : MARGIN 
+#MARGIN : Untuk membuat jarak anatara elemen diluar border
+#Margin Top,Right,Bottom,Left
+# margin-top:25px;
+# margin-right:50px;
+# margin-bottom:75px;
+# margin-left : 100px;
+# margin 25px 50px 75px 100px; (top right bottom left)
+# margin 25px 50px 75px; (top right&left bottom)
+# margin 25px 50px; (top&bottom left&right )
+# margin 25px; (semua)
+# margin : auto; (menentukan secara otomatis tergantung jarak elemen kanan dan kiri (center))
+
+EPS9 : PADDING
